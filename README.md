@@ -27,7 +27,7 @@ advancements in power-efficient arithmetic circuits.
 
 ## 📷 Design of Proposed Multiplier 
 
-![image alt]()
+![image alt](https://github.com/Upendra3507/Efficient-Multiplier/blob/5c0c1a52044bd717fef7a93d727ad7d20e51ccec/Circuit.jpg)
 
 ## 📷 Waveforms
 
