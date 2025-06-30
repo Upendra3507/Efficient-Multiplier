@@ -31,7 +31,7 @@ advancements in power-efficient arithmetic circuits.
 
 ## 📷 Waveforms
 
-![mage Alt] (image_url)
+![image alt](https://github.com/Upendra3507/Efficient-Multiplier/blob/72b0fd71a14ac0f26f571297fc55fcdcf5fee019/Waveforms.jpg)
 
 ## 📊 Results Summary
 
