@@ -7,7 +7,11 @@ The demand for low-power, high-speed, and area efficient digital circuits has dr
 ## 🎯 Objectives
 
 The main objectives of this project are as follows: 
+
 **Low Power Consumption**: Conventional multipliers tend to consume significant power due to high switching activity and intricate transistor configurations. The proposed design addresses this issue by implementing pass transistor logic, which minimizes the number of transistors actively in use.
+
 **High-Speed Computation**: Optimizing delay is crucial for achieving high-speed computations. By decreasing the number of logic levels and applying efficient switching methods, the proposed multiplier is able to deliver quicker computation times. 
+
 **Area Efficiency**: Reducing the transistor count not only contributes to lower power consumption but also minimizes the chip area required, making it ideal for compact and embedded systems. 
+
 **Comparison with Conventional Multipliers**: The newly designed multiplier will be compared with traditional array multipliers, Booth multipliers, and Wallace tree multipliers to evaluate enhancements in power efficiency, speed, and transistor count.
